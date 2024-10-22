@@ -81,19 +81,19 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-head :
+## head :
 ![image](https://github.com/user-attachments/assets/7bf7434f-0f56-4112-9e3d-76ffbf5b4954)
-Info :
+## Info :
 ![image](https://github.com/user-attachments/assets/c045d291-5e6d-4081-b179-0bbb615a7f07)
-No.of Null-Values :
+## No.of Null-Values :
 ![image](https://github.com/user-attachments/assets/8aa0c0c3-e923-4431-aebc-8f68d325ede1)
-Graph:
+## Graph:
 ![image](https://github.com/user-attachments/assets/c8ebd40f-a13d-4573-b73d-c198851511c0)
-No.of clusters :
+## No.of clusters :
 ![image](https://github.com/user-attachments/assets/6f5e5040-cb67-4d8e-8c65-ba09028dc93b)
-Predicted values :
+## Predicted values :
 ![image](https://github.com/user-attachments/assets/b13ac1c0-f07f-4ea3-b82b-5bded3b0b89b)
-Customer Segments :
+## Customer Segments :
 ![image](https://github.com/user-attachments/assets/9793e7e6-9e9d-41cd-9d51-05f8ffc1e178)
 
 ## Result:
